@@ -30,4 +30,6 @@ Scope for Enhancements:<br><br>
 5. Daily notifications <br>
 6. Toggle for *C/ *F conversion <br>
 
+Note:<br>
+In order for the WeatherApp app to function properly, an API key for openweathermap.org must be included with the build. appid in WebserviceClass"
 
