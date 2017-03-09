@@ -21,7 +21,7 @@
     self.authorizationFailureBlock = failureBlock;
     // NSURLConnection call for authorization here
    
-    NSString *urlString = [NSString stringWithFormat:@"http://api.openweathermap.org/data/2.5/forecast?q=%@,%@&appid=",city,country];
+    NSString *urlString = [NSString stringWithFormat:@"http://api.openweathermap.org/data/2.5/forecast?q=%@,%@&appid=27a0420d7f899376a73505b09614889e",city,country];
     // Create the request.
     NSURLRequest *request = [NSURLRequest requestWithURL:[NSURL URLWithString:urlString]];
     
