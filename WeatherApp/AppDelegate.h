@@ -13,6 +13,8 @@
 @interface AppDelegate : UIResponder <UIApplicationDelegate,MBProgressHUDDelegate>
 {
     MBProgressHUD *HUD;
+    
+    
 
 }
 
