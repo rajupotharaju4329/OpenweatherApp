@@ -232,7 +232,7 @@
 				TargetAttributes = {
 					043AA7601E6E8EB2009D4BDD = {
 						CreatedOnToolsVersion = 7.3;
-						DevelopmentTeam = 534QGJV4V2;
+						DevelopmentTeam = KEXPEDPKUS;
 					};
 					043AA7791E6E8EB2009D4BDD = {
 						CreatedOnToolsVersion = 7.3;
@@ -352,8 +352,8 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Hertz Equipment Rental Corporation";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Hertz Equipment Rental Corporation";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Sunil Gupta (U858JSN9DX)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Sunil Gupta (U858JSN9DX)";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
@@ -368,7 +368,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PROVISIONING_PROFILE = "013387c8-3303-465f-bab3-0c11598df663";
+				PROVISIONING_PROFILE = "3c4254b2-cdfd-4584-bb99-cd021cf078a9";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
@@ -379,13 +379,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Hertz Equipment Rental Corporation";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Sunil Gupta (U858JSN9DX)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Sunil Gupta (U858JSN9DX)";
 				INFOPLIST_FILE = WeatherApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.HERCApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.WiproHerc.HercEquip;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "013387c8-3303-465f-bab3-0c11598df663";
+				PROVISIONING_PROFILE = "3c4254b2-cdfd-4584-bb99-cd021cf078a9";
 			};
 			name = enterprice;
 		};
@@ -419,8 +419,8 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Hertz Equipment Rental Corporation";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Hertz Equipment Rental Corporation";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Sunil Gupta (U858JSN9DX)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Sunil Gupta (U858JSN9DX)";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -442,7 +442,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				PROVISIONING_PROFILE = "013387c8-3303-465f-bab3-0c11598df663";
+				PROVISIONING_PROFILE = "3c4254b2-cdfd-4584-bb99-cd021cf078a9";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -466,8 +466,8 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Hertz Equipment Rental Corporation";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Hertz Equipment Rental Corporation";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Sunil Gupta (U858JSN9DX)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Sunil Gupta (U858JSN9DX)";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
@@ -482,7 +482,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PROVISIONING_PROFILE = "013387c8-3303-465f-bab3-0c11598df663";
+				PROVISIONING_PROFILE = "3c4254b2-cdfd-4584-bb99-cd021cf078a9";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
@@ -493,12 +493,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Sunil Gupta (U858JSN9DX)";
 				INFOPLIST_FILE = WeatherApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.HERCApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.WiproHerc.HercEquip;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "013387c8-3303-465f-bab3-0c11598df663";
+				PROVISIONING_PROFILE = "3c4254b2-cdfd-4584-bb99-cd021cf078a9";
 			};
 			name = Debug;
 		};
@@ -506,13 +506,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Hertz Equipment Rental Corporation";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Sunil Gupta (U858JSN9DX)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Sunil Gupta (U858JSN9DX)";
 				INFOPLIST_FILE = WeatherApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.HERCApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.WiproHerc.HercEquip;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "013387c8-3303-465f-bab3-0c11598df663";
+				PROVISIONING_PROFILE = "3c4254b2-cdfd-4584-bb99-cd021cf078a9";
 			};
 			name = Release;
 		};
