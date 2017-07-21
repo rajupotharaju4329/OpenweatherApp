@@ -328,6 +328,8 @@ static const CGFloat kDetailsLabelFontSize = 12.f;
 	}
 }
 
+
+
 - (void)hideUsingAnimation:(BOOL)animated {
 	// Fade out
 	if (animated && showStarted) {
