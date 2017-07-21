@@ -368,7 +368,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PROVISIONING_PROFILE = "3c4254b2-cdfd-4584-bb99-cd021cf078a9";
+				PROVISIONING_PROFILE = "e5c487aa-481e-4ade-bf8f-a1dbb921a125";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
@@ -385,7 +385,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.WiproHerc.HercEquip;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "3c4254b2-cdfd-4584-bb99-cd021cf078a9";
+				PROVISIONING_PROFILE = "e5c487aa-481e-4ade-bf8f-a1dbb921a125";
 			};
 			name = enterprice;
 		};
@@ -442,7 +442,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				PROVISIONING_PROFILE = "3c4254b2-cdfd-4584-bb99-cd021cf078a9";
+				PROVISIONING_PROFILE = "e5c487aa-481e-4ade-bf8f-a1dbb921a125";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -482,7 +482,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PROVISIONING_PROFILE = "3c4254b2-cdfd-4584-bb99-cd021cf078a9";
+				PROVISIONING_PROFILE = "e5c487aa-481e-4ade-bf8f-a1dbb921a125";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
@@ -498,7 +498,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.WiproHerc.HercEquip;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "3c4254b2-cdfd-4584-bb99-cd021cf078a9";
+				PROVISIONING_PROFILE = "e5c487aa-481e-4ade-bf8f-a1dbb921a125";
 			};
 			name = Debug;
 		};
@@ -512,7 +512,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.WiproHerc.HercEquip;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "3c4254b2-cdfd-4584-bb99-cd021cf078a9";
+				PROVISIONING_PROFILE = "e5c487aa-481e-4ade-bf8f-a1dbb921a125";
 			};
 			name = Release;
 		};
