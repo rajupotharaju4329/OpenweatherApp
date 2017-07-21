@@ -232,7 +232,7 @@
 				TargetAttributes = {
 					043AA7601E6E8EB2009D4BDD = {
 						CreatedOnToolsVersion = 7.3;
-						DevelopmentTeam = KEXPEDPKUS;
+						DevelopmentTeam = CAX7NUT487;
 					};
 					043AA7791E6E8EB2009D4BDD = {
 						CreatedOnToolsVersion = 7.3;
@@ -368,7 +368,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PROVISIONING_PROFILE = "3c4254b2-cdfd-4584-bb99-cd021cf078a9";
+				PROVISIONING_PROFILE = "f409006e-9753-4380-9e35-8bca52d2f3a2";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
@@ -383,9 +383,9 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Sunil Gupta (U858JSN9DX)";
 				INFOPLIST_FILE = WeatherApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.WiproHerc.HercEquip;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Herc.HercDev;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "3c4254b2-cdfd-4584-bb99-cd021cf078a9";
+				PROVISIONING_PROFILE = "f409006e-9753-4380-9e35-8bca52d2f3a2";
 			};
 			name = enterprice;
 		};
@@ -442,7 +442,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				PROVISIONING_PROFILE = "3c4254b2-cdfd-4584-bb99-cd021cf078a9";
+				PROVISIONING_PROFILE = "f409006e-9753-4380-9e35-8bca52d2f3a2";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -482,7 +482,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PROVISIONING_PROFILE = "3c4254b2-cdfd-4584-bb99-cd021cf078a9";
+				PROVISIONING_PROFILE = "f409006e-9753-4380-9e35-8bca52d2f3a2";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
@@ -496,9 +496,9 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer: Sunil Gupta (U858JSN9DX)";
 				INFOPLIST_FILE = WeatherApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.WiproHerc.HercEquip;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Herc.HercDev;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "3c4254b2-cdfd-4584-bb99-cd021cf078a9";
+				PROVISIONING_PROFILE = "f409006e-9753-4380-9e35-8bca52d2f3a2";
 			};
 			name = Debug;
 		};
@@ -510,9 +510,9 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Sunil Gupta (U858JSN9DX)";
 				INFOPLIST_FILE = WeatherApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.WiproHerc.HercEquip;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Herc.HercDev;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "3c4254b2-cdfd-4584-bb99-cd021cf078a9";
+				PROVISIONING_PROFILE = "f409006e-9753-4380-9e35-8bca52d2f3a2";
 			};
 			name = Release;
 		};
